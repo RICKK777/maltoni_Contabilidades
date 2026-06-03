@@ -1,6 +1,6 @@
-/* =========================================
-   MALTONI CONTABILIDADES - ESTILO PREMIUM
-   ========================================= */
+/* ========================
+   MALTONI CONTABILIDADES 
+   ======================== */
 
 /* --- Variáveis e Reset --- */
 :root {
@@ -716,9 +716,9 @@ footer {
     }
 }
 
-/* =========================================
-   MALTONI CONTABILIDADES - ESTILO PREMIUM
-   ========================================= */
+/* =======================
+   MALTONI CONTABILIDADES 
+   ======================= */
 
 /* --- Variáveis e Reset --- */
 :root {
@@ -861,9 +861,9 @@ header {
     color: var(--primary-color);
 }
 
-/* =========================================
-   SEÇÃO WHATSAPP (MODERNA E AMPLIADA)
-   ========================================= */
+/* ===================
+   SEÇÃO WHATSAPP 
+   ===================*/
 .whatsapp-section {
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
     padding: 120px 0;
